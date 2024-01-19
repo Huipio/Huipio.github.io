@@ -1,0 +1,4 @@
+.carousel-inner .d-block {
+    width: 500px; /* Establece el ancho fijo en píxeles */
+    height: 300px; /* Establece la altura fija en píxeles */
+  }
